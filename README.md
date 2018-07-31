@@ -1,8 +1,10 @@
-React Component Life Cycle
+#React Component Life Cycle
 
- I create this project  for seeing the life cycle method for REACT Component.
+ >I create this project  for seeing the life cycle method for REACT Component.
 
-Quick Start:
+##Quick Start:
+
+```bash
 # Install dependencies
 npm install
 
@@ -13,3 +15,4 @@ npm start
 
 # Build for production
 npm run build
+```
