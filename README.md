@@ -1,4 +1,4 @@
-#React Component Life Cycle
+# React Component Life Cycle
 
  >I create this project  for seeing the life cycle method for REACT Component.
 
