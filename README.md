@@ -2,7 +2,7 @@
 
  >I create this project  for seeing the life cycle method for REACT Component.
 
-##Quick Start:
+## Quick Start:
 
 ```bash
 # Install dependencies
