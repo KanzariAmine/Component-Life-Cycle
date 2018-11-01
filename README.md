@@ -1,6 +1,6 @@
 # React Component Life Cycle
 
- >I create this project  for seeing the life cycle method for REACT Component.
+ >It's projects to understand Component Life Cycle
 
 ## Quick Start:
 
